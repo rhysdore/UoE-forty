@@ -1,5 +1,5 @@
 ---
-layout: layoutLanding
+layout: landing
 title: Landing
-spotlight: false
+tagline: some text here
 ---
