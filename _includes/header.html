@@ -1,26 +1,21 @@
-<header id="header">
-  <div class="inner">
-    <!-- Logo -->
-      <a href="{{ site.baseurl }}/" class="logo">
-        <span class="symbol"><img src="{{ site.baseurl }}/images/logo.svg" alt="" /></span><span class="title">{{ site.title }}</span>
-      </a>
-    <!-- Nav -->
-      <nav>
-        <ul>
-          <li><a href="#menu">Menu</a></li>
-        </ul>
-      </nav>
-  </div>
+<header id="header" class="alt">
+	<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
 </header>
-
+<!-- Menu -->
 <nav id="menu">
-  <h2>Menu</h2>
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    {% for my_page in site.pages %}
-      {% if my_page.title %}
-        <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+	<ul class="links">
+		<li><a href="index.html">Home</a></li>
+		 {% for my_page in site.pages %}
+			{% if my_page.title %}
+				<li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	<ul class="actions vertical">
+		<li><a href="#" class="button special fit">Get Started</a></li>
+		<li><a href="#" class="button fit">Log In</a></li>
+	</ul>
 </nav>
