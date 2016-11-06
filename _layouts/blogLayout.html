@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% include landingHeader.html %}
-{% include landingBanner.html %}
+{% include blogHeader.html %}
+{% include blogBanner.html %}
 <!-- Main -->
 <div id="main">
 	{% if page.secondTitle and page.secondDescription %}
@@ -41,15 +41,21 @@ layout: default
 		{% endfor %}
 	</section>
 	<!-- Three -->
+	{% if page.featuredPageTitle %}
+		{% for my_page in site.pages %}
+			{% if my_page.title == page.featuredPageTitle %}
 	<section id="three">
 		<div class="inner">
 			<header class="major">
-				<h2>Massa libero</h2>
+				<h2>{{ my_page.title }}</h2>
 			</header>
-			<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum 	sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis 	libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+			<p>{{ my_page.tagline }}</p>
 			<ul class="actions">
-				<li><a href="generic.html" class="button next">Get Started</a></li>
+				<li><a href="{{ site.baseurl}}/{{ my_page.url }}" class="button next">Get Started</a></li>
 			</ul>
 		</div>
 	</section>
+			{% endif %}
+		{% endfor %}
+	{% endif %}
 </div>
