@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Consequat
 tagline: Ipsum dolor sit amet
 image: images/pic05.jpg
