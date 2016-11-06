@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ipsum
-tagline: Ipsum dolor sit amet
+tagline: Nisl sed aliquam
 image: images/pic04.jpg
 spotlight: true
 ---
