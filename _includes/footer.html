@@ -1,43 +1,25 @@
 <footer id="footer">
 	<div class="inner">
 		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-			<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+			{% if site.twitter %}
+				<li><a href="https://twitter.com/{{ site.twitter }}" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+			{% endif %}
+			{% if site.facebook %}
+       			 <li><a href="https://www.facebook.com/{{ site.facebook }}" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+        		{% endif %}
+			{% if site.instagram %}
+        			<li><a href="https://www.instagram.com/{{ site.instagram }}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+        		{% endif %}
+			{% if site.github %}
+        			<li><a href="https://github.com/{{ site.github }}" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+        		{% endif %}
+			{% if site.linkedin %}
+        			<li><a href="https://www.linkedin.com/in/{{ site.linkedin }}" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+        		{% endif %}
+			<li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="icon alt fa-rss"><span class="label">RSS</span></a></li>
 		</ul>
 		<ul class="copyright">
-			<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+			<li>&copy; {{ site.copyright }}. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 		</ul>
 	</div>
-</footer>
-
-
-      
-      
-    <section>
-      <h2>Follow</h2>
-      <ul class="icons">
-        {% if site.twitter %}
-          <li><a href="https://twitter.com/{{ site.twitter }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
-        {% endif %}
-        {% if site.facebook %}
-        <li><a href="https://www.facebook.com/{{ site.facebook }}" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
-        {% endif %}
-        {% if site.instagram %}
-        <li><a href="https://www.instagram.com/{{ site.instagram }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
-        {% endif %}
-        
-        {% if site.github %}
-        <li><a href="https://github.com/{{ site.github }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
-        {% endif %}
-        
-        
-      </ul>
-    </section>
-    <ul class="copyright">
-      <li>&copy; {{ site.copyright }}. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-    </ul>
-  </div>
 </footer>
