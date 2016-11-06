@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Ipsum
 tagline: Nisl sed aliquam
 image: images/pic04.jpg
