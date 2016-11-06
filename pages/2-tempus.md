@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Tempus
 tagline: Feugiat amet tempus
 image: images/pic02.jpg
