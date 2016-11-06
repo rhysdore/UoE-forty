@@ -20,7 +20,7 @@ layout: default
 	<section id="two" class="spotlights">
 		{% for my_post in site.posts %}
 		<section>
-			{{ if my_post.image }}
+			{% if my_post.image %}
 			<a href="{{ site.baseurl }}/{{ my_post.url }}" class="image">
 				<!-- imagePosition: center center, top center, 25% 25% -->
 				<img src="{{ my_post.image}}" alt="" data-position="{{ my_post.imagePosition}}" />
