@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Magna
 tagline: Lorem etiam nullam
 image: images/pic03.jpg
