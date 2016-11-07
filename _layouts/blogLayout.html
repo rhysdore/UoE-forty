@@ -5,14 +5,14 @@ layout: default
 {% include blogBanner.html %}
 <!-- Main -->
 <div id="main">
-	{% if page.secondTitle and page.secondDescription %}
+	{% if page.secondTitle and page.secondTagline %}
 	<!-- One -->
 	<section id="one">
 		<div class="inner">
 			<header class="major">
 				<h2>{{ page.secondTitle }}</h2>
 			</header>
-			<p>{{ page.secondDescription }}</p>
+			<p>{{ page.secondTagline }}</p>
 		</div>
 	</section>
 	{% endif %}
