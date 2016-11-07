@@ -1,4 +1,6 @@
 # Site settings
+url: "https://lufevida.github.io"
+baseurl: "/html5up-forty"
 markdown: kramdown
 title: Forty
 tagline: by HTML5 UP
@@ -7,14 +9,15 @@ bannerDescription: A responsive site template designed by html5 up and released 
 blogTitle: Massa libero
 blogTagline: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
 blogButtonTitle: Get Started
-email: your-email@domain.com
+
+address: 1234 Somewhere Road 5432
+Nashville, TN 00000
+United States of America
 phone: 012-345-6789
-copyright: Copyright Owner
-baseurl: "/html5up-forty" # the subpath of your site, e.g. /blog
-url: "https://lufevida.github.io" # the base hostname & protocol for your site
+email: email@domain.com
 twitter: username
 facebook: username
 instagram: username
-dribbble: username
 github: username
-500px: username
+linkedin: username
+copyright: Copyright Owner
