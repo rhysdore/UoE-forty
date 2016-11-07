@@ -41,9 +41,8 @@ layout: default
 		{% endfor %}
 	</section>
 	<!-- Three -->
-	{% if page.featuredPageTitle %}
-		{% for my_page in site.pages %}
-			{% if my_page.title == page.featuredPageTitle %}
+	{% for my_page in site.pages %}
+		{% if my_page.title == page.featuredPageTitle %}
 	<section id="three">
 		<div class="inner">
 			<header class="major">
@@ -55,7 +54,6 @@ layout: default
 			</ul>
 		</div>
 	</section>
-			{% endif %}
-		{% endfor %}
-	{% endif %}
+		{% endif %}
+	{% endfor %}
 </div>
