@@ -10,10 +10,7 @@ blogTitle: Massa libero
 blogTagline: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
 blogButtonTitle: Get Started
 
-address: >
-	1234 Somewhere Road 5432
-	Nashville, TN 00000
-	United States of America
+address: "1234 Somewhere Road 5432\nNashville, TN\n00000 United States of America"
 phone: 012-345-6789
 email: email@domain.com
 twitter: username
