@@ -5,10 +5,7 @@ markdown: kramdown
 title: Forty
 tagline: by HTML5 UP
 bannerTitle: Hi, my name is Forty
-bannerDescription: A responsive site template designed by html5 up and released under the creative commons.
-blogTitle: Massa libero
-blogTagline: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
-blogButtonTitle: Get Started
+bannerDescription: "A responsive site template designed by html5 up<br>and released under the creative commons."
 
 address: "1234 Somewhere Road 5432<br>Nashville, TN 00000<br>United States of America"
 phone: 012-345-6789
