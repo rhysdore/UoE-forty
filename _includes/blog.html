@@ -1,3 +1,5 @@
+{% for my_page in site.pages %}
+	{% if my_page.showOnHomePage == true %}
 <section id="two">
 	<div class="inner">
 		<header class="major">
@@ -9,3 +11,5 @@
 		</ul>
 	</div>
 </section>
+	{% endif %}
+{% endfor %}
