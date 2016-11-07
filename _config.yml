@@ -1,4 +1,5 @@
 # Site settings
+markdown: kramdown
 title: Forty
 tagline: by HTML5 UP
 bannerTitle: Hi, my name is Forty
@@ -17,9 +18,3 @@ instagram: username
 dribbble: username
 github: username
 500px: username
-
-# Build settings
-markdown: kramdown
-blogTitle: Posts
-blogTagline: Here you will find news
-blogButtonTitle: Learn More
