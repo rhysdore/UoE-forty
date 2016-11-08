@@ -13,8 +13,8 @@ layout: default
 			<header class="major">
 				<h1>{{ page.title }}</h1>
 			</header>
-			{% if page.image %}
-			<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+			{% if page.bannerImage %}
+			<span class="image main"><img src="{{ site.baseurl }}/{{ page.bannerImage }}" alt="" /></span>
 			{% endif %}
 			<article itemscope itemtype="http://schema.org/BlogPosting">
 				<p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
