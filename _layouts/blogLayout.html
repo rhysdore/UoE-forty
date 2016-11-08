@@ -21,7 +21,7 @@ layout: default
 		{% for my_post in site.posts %}
 		<section>
 			{% if my_post.image %}
-			<a href="{{ site.baseurl }}/{{ my_post.url }}" class="image">
+			<a href="{{ site.baseurl }}{{ my_post.url }}" class="image">
 				<img src="{{ my_post.image}}" alt="" data-position="{{ my_post.imagePosition}}"/>
 			</a>
 			{% endif %}
@@ -32,7 +32,7 @@ layout: default
 					</header>
 					<p>{{ my_post.tagline }}</p>
 					<ul class="actions">
-						<li><a href="{{ site.baseurl }}/{{ my_post.url }}" class="button">Learn more</a></li>
+						<li><a href="{{ site.baseurl }}{{ my_post.url }}" class="button">Learn more</a></li>
 					</ul>
 				</div>
 			</div>
