@@ -4,8 +4,9 @@ author: Awesome McGreat
 title: "Welcome to Jekyll!"
 date: 2016-07-07
 tagline: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
-image: /images/pic07.jpg
-style: style1
+image: images/pic07.jpg
+# Image position options: center center, top center, 25% 25%
+imagePosition: center center
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
