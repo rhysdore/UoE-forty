@@ -7,19 +7,3 @@ showOnHomePage: true
 secondTitle: Second Title
 secondTagline: Second Tagline
 ---
-<!-- Three -->
-{% for my_page in site.pages %}
-	{% if my_page.showOnBlogPage == true %}
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>{{ my_page.title }}</h2>
-		</header>
-		<p>{{ my_page.tagline }}</p>
-		<ul class="actions">
-			<li><a href="{{ site.baseurl}}/{{ my_page.url }}" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-	{% endif %}
-{% endfor %}
