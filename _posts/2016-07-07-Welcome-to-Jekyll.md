@@ -7,6 +7,7 @@ tagline: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugi
 image: images/pic08.jpg
 # Image position options: center center, top center, 25% 25%
 imagePosition: center center
+bannerImage: images/pic11.jpg
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
