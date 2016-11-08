@@ -40,10 +40,10 @@ layout: default
 		</section>
 		{% endfor %}
 	</section>
-	<!-- Three -->
-	<section id="three">
 	{% for my_page in site.pages %}
 		{% if my_page.featureOnBlog == true %}
+	<!-- Three -->
+	<section id="{{ my_page.title }}">
 		<div class="inner">
 			<header class="major">
 				<h2>{{ my_page.title }}</h2>
@@ -53,7 +53,7 @@ layout: default
 				<li><a href="{{ site.baseurl}}/{{ my_page.url }}" class="button next">Get Started</a></li>
 			</ul>
 		</div>
+	</section>
 		{% endif %}
 	{% endfor %}
-	</section>
 </div>
