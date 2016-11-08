@@ -40,6 +40,20 @@ layout: default
 		</section>
 		{% endfor %}
 	</section>
-	What is going on???
-	{% include feature.html %}
+	<!-- Three -->
+	<section id="three">
+	{% for my_page in site.pages %}
+		{% if my_page.featureOnBlog == true %}
+		<div class="inner">
+			<header class="major">
+				<h2>{{ my_page.title }}</h2>
+			</header>
+			<p>{{ my_page.tagline }}</p>
+			<ul class="actions">
+				<li><a href="{{ site.baseurl}}/{{ my_page.url }}" class="button next">Get Started</a></li>
+			</ul>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</section>
 </div>
