@@ -4,7 +4,7 @@ author: Awesome McGreat
 title: "Welcome to Jekyll!"
 date: 2016-07-07
 tagline: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
-image: images/pic07.jpg
+image: images/pic08.jpg
 # Image position options: center center, top center, 25% 25%
 imagePosition: center center
 ---
