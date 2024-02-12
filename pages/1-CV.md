@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: About Me
 tagline: Comprehensive Curriculum Vitae
 image: images/pic01.jpg
 bannerImage: images/pic11.jpg
