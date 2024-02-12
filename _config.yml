@@ -2,17 +2,17 @@
 url: "https://rhysdore.github.io"
 baseurl: "/UoE-forty"
 markdown: kramdown
-title: Forty
+title: RhysDore
 tagline: by HTML5 UP
-bannerTitle: Hi, my name is Forty
-bannerDescription: "A responsive site template designed by html5 up<br>and released under the creative commons."
+bannerTitle: Rhys Dore
+bannerDescription: "E-portfolio for Machine Learning module"
 
-address: "1234 Somewhere Road 5432<br>Nashville, TN 00000<br>United States of America"
-phone: 012-345-6789
-email: email@domain.com
-twitter: username
-facebook: username
-instagram: username
-github: username
-linkedin: username
+address: "London, UK"
+phone: 
+email: 
+twitter: rhysdore
+facebook: 
+instagram: rhysdore
+github: rhysdore
+linkedin: rhysdore
 copyright: Copyright Owner
