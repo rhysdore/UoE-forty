@@ -9,19 +9,19 @@ spotlight: true
 
 - Group Assessment
 
-My personal coding contribution was particularly the (clustering analysis)[https://colab.research.google.com/drive/1zyuZx6zAjayZt9eTY40mjPIqvF4j1508?usp=sharing]
+My personal coding contribution was particularly the <a href="https://colab.research.google.com/drive/1zyuZx6zAjayZt9eTY40mjPIqvF4j1508?usp=sharing">clustering analysis</a>
 
-<a href="https://colab.research.google.com/drive/1zyuZx6zAjayZt9eTY40mjPIqvF4j1508?usp=sharing"> clustering analysis </a>
+Group project <a href="https://drive.google.com/file/d/1_4zgbURvNXEVo_1DNGpO1tQl8OjctwsE/view?usp=sharing">complete code</a>
 
-Group project (complete code)[https://drive.google.com/file/d/1_4zgbURvNXEVo_1DNGpO1tQl8OjctwsE/view?usp=sharing]
+Group project <a href="https://docs.google.com/document/d/1zoZzCc0VgbmQX-RgFbTCjY8OfVRjbBi8cvsQZ_YYey8/edit?usp=sharing">final report</a>
 
-Group project (final report)[https://docs.google.com/document/d/1zoZzCc0VgbmQX-RgFbTCjY8OfVRjbBi8cvsQZ_YYey8/edit?usp=sharing]
+See Meeting Notes for further notes taken during group meetings.
 
 - Final Assessment
 
-(Complex Models)[https://colab.research.google.com/drive/1s7K7UxPfO9JWamCQJvn1Ru4I0IxAfKq3?usp=sharing]
+<a href="https://colab.research.google.com/drive/1s7K7UxPfO9JWamCQJvn1Ru4I0IxAfKq3?usp=sharing">Complete Models</a>
 
-(Simple Models)[https://colab.research.google.com/drive/1Pvcc-Q_zk_rseceopAFu0B-Ncvm6yyHT?usp=sharing]
+<a href="https://colab.research.google.com/drive/1Pvcc-Q_zk_rseceopAFu0B-Ncvm6yyHT?usp=sharing">Simple Models</a>
 
 
 - Collaborative Discussion 1
