@@ -11,6 +11,8 @@ spotlight: true
 
 My personal coding contribution was particularly the (clustering analysis)[https://colab.research.google.com/drive/1zyuZx6zAjayZt9eTY40mjPIqvF4j1508?usp=sharing]
 
+<a href="https://colab.research.google.com/drive/1zyuZx6zAjayZt9eTY40mjPIqvF4j1508?usp=sharing"> clustering analysis </a>
+
 Group project (complete code)[https://drive.google.com/file/d/1_4zgbURvNXEVo_1DNGpO1tQl8OjctwsE/view?usp=sharing]
 
 Group project (final report)[https://docs.google.com/document/d/1zoZzCc0VgbmQX-RgFbTCjY8OfVRjbBi8cvsQZ_YYey8/edit?usp=sharing]
