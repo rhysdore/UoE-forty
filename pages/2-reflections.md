@@ -27,15 +27,15 @@ Overall, I have very much enjoyed this module. I have been able to incorporate g
 
 
 References:
-Bezanson, J. et al. (2012) ‘Julia: A Fast Dynamic Language for Technical Computing’. Available at: https://arxiv.org/abs/1209.5145v1 (Accessed: 15 February 2024).
-Bugden, W., Alahmar, A. and Author, C. (2022) ‘Rust: The Programming Language for Safety and Performance’, Igscong’22 [Preprint], (June). Available at: https://arxiv.org/abs/2206.05503v1 (Accessed: 15 February 2024).
-Espinal, A., Vieira, C. and Guerrero-Bequis, V. (2023) ‘Student ability and difficulties with transfer from a block-based programming language into other programming languages: a case study in Colombia’, Computer Science Education, 33(4), pp. 567–599. Available at: https://doi.org/10.1080/08993408.2022.2079867.
-Hagendorff, T. (2020) ‘The Ethics of AI Ethics: An Evaluation of Guidelines’, Minds and Machines, 30(1), pp. 99–120. Available at: https://doi.org/10.1007/S11023-020-09517-8/TABLES/1.
-Janiesch, C., Zschech, P. and Heinrich, K. (2021) ‘Machine learning and deep learning’, Electronic Markets, 31(3), pp. 685–695. Available at: https://doi.org/10.1007/S12525-021-00475-2/TABLES/2.
-Krizhevsky, A. (2009) Learning Multiple Layers of Features from Tiny Images. Toronto.
-Men, C. et al. (2019) ‘When and how knowledge sharing benefits team creativity: The importance of cognitive team diversity’, Journal of Management & Organization, 25(6), pp. 807–824. Available at: https://doi.org/10.1017/JMO.2017.47.
-New York City Airbnb Open Data (no date). Available at: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data (Accessed: 15 February 2024).
-Shrestha, N. et al. (2020) ‘Herewe go again: Why is it difficult for developers to learn another programming language’, Proceedings - International Conference on Software Engineering, pp. 691–701. Available at: https://doi.org/10.1145/3377811.3380352.
-Siau, K. and Wang, W. (1AD) ‘Artificial Intelligence (AI) Ethics: Ethics of AI and Ethical AI’, https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/JDM.2020040105, 31(2), pp. 74–87. Available at: https://doi.org/10.4018/JDM.2020040105.
-Tang, J.C. et al. (2011) ‘Your time zone or mine? : A study of globally time zone-shifted collaboration’, Proceedings of the ACM Conference on Computer Supported Cooperative Work, CSCW, pp. 235–244. Available at: https://doi.org/10.1145/1958824.1958860.
-UK Young Academy (no date). Available at: https://ukyoungacademy.org/ (Accessed: 15 February 2024).
+- Bezanson, J. et al. (2012) ‘Julia: A Fast Dynamic Language for Technical Computing’. Available at: https://arxiv.org/abs/1209.5145v1 (Accessed: 15 February 2024).
+- Bugden, W., Alahmar, A. and Author, C. (2022) ‘Rust: The Programming Language for Safety and Performance’, Igscong’22 [Preprint], (June). Available at: https://arxiv.org/abs/2206.05503v1 (Accessed: 15 February 2024).
+- Espinal, A., Vieira, C. and Guerrero-Bequis, V. (2023) ‘Student ability and difficulties with transfer from a block-based programming language into other programming languages: a case study in Colombia’, Computer Science Education, 33(4), pp. 567–599. Available at: https://doi.org/10.1080/08993408.2022.2079867.
+- Hagendorff, T. (2020) ‘The Ethics of AI Ethics: An Evaluation of Guidelines’, Minds and Machines, 30(1), pp. 99–120. Available at: https://doi.org/10.1007/S11023-020-09517-8/TABLES/1.
+- Janiesch, C., Zschech, P. and Heinrich, K. (2021) ‘Machine learning and deep learning’, Electronic Markets, 31(3), pp. 685–695. Available at: https://doi.org/10.1007/S12525-021-00475-2/TABLES/2.
+- Krizhevsky, A. (2009) Learning Multiple Layers of Features from Tiny Images. Toronto.
+- Men, C. et al. (2019) ‘When and how knowledge sharing benefits team creativity: The importance of cognitive team diversity’, Journal of Management & Organization, 25(6), pp. 807–824. Available at: https://doi.org/10.1017/JMO.2017.47.
+- New York City Airbnb Open Data (no date). Available at: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data (Accessed: 15 February 2024).
+- Shrestha, N. et al. (2020) ‘Herewe go again: Why is it difficult for developers to learn another programming language’, Proceedings - International Conference on Software Engineering, pp. 691–701. Available at: https://doi.org/10.1145/3377811.3380352.
+- Siau, K. and Wang, W. (1AD) ‘Artificial Intelligence (AI) Ethics: Ethics of AI and Ethical AI’, https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/JDM.2020040105, 31(2), pp. 74–87. Available at: https://doi.org/10.4018/JDM.2020040105.
+- Tang, J.C. et al. (2011) ‘Your time zone or mine? : A study of globally time zone-shifted collaboration’, Proceedings of the ACM Conference on Computer Supported Cooperative Work, CSCW, pp. 235–244. Available at: https://doi.org/10.1145/1958824.1958860.
+- UK Young Academy (no date). Available at: https://ukyoungacademy.org/ (Accessed: 15 February 2024).
