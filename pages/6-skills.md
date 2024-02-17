@@ -1,4 +1,4 @@
-![image](https://github.com/rhysdore/UoE-forty/assets/97992834/05f987df-a4f2-41d2-9eda-4fc69ae7c7dd)---
+---
 layout: page
 title: Skills Matrix
 tagline: Professional skills matrix and action plan
