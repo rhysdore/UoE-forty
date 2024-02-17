@@ -19,13 +19,14 @@ See Meeting Notes for further notes taken during group meetings.
 
 - Final Assessment
 
-<a href="https://colab.research.google.com/drive/1s7K7UxPfO9JWamCQJvn1Ru4I0IxAfKq3?usp=sharing">Complete Models</a>
+<a href="https://colab.research.google.com/drive/1s7K7UxPfO9JWamCQJvn1Ru4I0IxAfKq3?usp=sharing">Complex Models</a>
 
 <a href="https://colab.research.google.com/drive/1Pvcc-Q_zk_rseceopAFu0B-Ncvm6yyHT?usp=sharing">Simple Models</a>
 
 
 - Collaborative Discussion 1
 
+<a href="https://docs.google.com/document/d/1qAT1V9SzehgQqwx7sdAifSZ9GnxzR2GI/edit?usp=drive_link&ouid=103578667036920865672&rtpof=true&sd=true">Collaborative Discussion 1 Contributions</a>
 
 - Unit 2 Seminar Preparation
 
@@ -56,6 +57,7 @@ See Meeting Notes for further notes taken during group meetings.
  
 - Collaborative Discussion 2
 
+<a href="https://docs.google.com/document/d/1LYeANwPIP_Doy0rAA8hgX_A3JQv7gq6g/edit?usp=drive_link&ouid=103578667036920865672&rtpof=true&sd=true">Collaborative Discussion 2 Contributions</a>
 
 - Unit 9 e-Portfolio Component 
 
