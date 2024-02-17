@@ -10,6 +10,8 @@ showOnNavigationMenu: false
 
 Dr Rhys Dore MRCPCH - Curriculum Vitae - https://www.linkedin.com/in/rhysdore/ 
 
+I am an academic-clinician with a particular interest in clinical genetics, bioinformatics/computational biology, genomics, and transcriptomics. I also have interests in medical education, strategic direction in health-related charities, and novel developments in both healthtech and artificial intelligence.
+
 Employment:
 -	NIHR Academic Clinical Fellow in Clinical Genetics, King’s College London				2023-
 -	Specialty Registrar in Clinical Genetics, Guy’s and St Thomas’ NHS Foundation Trust		2023-
